@@ -1,1 +1,1 @@
-import * as sys from "modules/sys.js";
+import * as sys from "/modules/sys.js";
