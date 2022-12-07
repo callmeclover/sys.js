@@ -40,4 +40,4 @@ class sys {
     }
 }
 
-export { sys as sys }
+export default sys
